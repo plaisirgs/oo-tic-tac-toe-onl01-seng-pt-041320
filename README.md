@@ -198,3 +198,4 @@ Your `bin/tictactoe` CLI should:
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/oo-tic-tac-toe' title='Tic Tac Toe in Ruby'>OO Tic Tac Toe</a> on Learn.co and start learning to code for free.</p>
 
 
+[![Run on Repl.it](https://repl.it/badge/github/plaisirgs/oo-tic-tac-toe-onl01-seng-pt-041320)](https://repl.it/github/plaisirgs/oo-tic-tac-toe-onl01-seng-pt-041320)
